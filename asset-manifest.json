@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/shuffled_keyboard_app/static/css/main.a8070411.css",
+    "main.js": "/shuffled_keyboard_app/static/js/main.2eeddfbb.js",
+    "static/js/453.5e560239.chunk.js": "/shuffled_keyboard_app/static/js/453.5e560239.chunk.js",
+    "static/media/candy.png": "/shuffled_keyboard_app/static/media/candy.d6542d0285d3f096c25f.png",
+    "static/media/ios_del.png": "/shuffled_keyboard_app/static/media/ios_del.533d5d97ec70c8a0a061.png",
+    "index.html": "/shuffled_keyboard_app/index.html",
+    "main.a8070411.css.map": "/shuffled_keyboard_app/static/css/main.a8070411.css.map",
+    "main.2eeddfbb.js.map": "/shuffled_keyboard_app/static/js/main.2eeddfbb.js.map",
+    "453.5e560239.chunk.js.map": "/shuffled_keyboard_app/static/js/453.5e560239.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8070411.css",
+    "static/js/main.2eeddfbb.js"
+  ]
+}
